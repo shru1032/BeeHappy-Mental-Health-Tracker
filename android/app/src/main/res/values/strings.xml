@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Health Tracker</string>
+    <string name="facebook_app_id">3276708619272372</string>
+    <string name="fb_login_protocol_scheme">fb3276708619272372</string>
+    <string name="facebook_client_token">54a977a3676750da42cf152f2a846294</string>
+</resources>
