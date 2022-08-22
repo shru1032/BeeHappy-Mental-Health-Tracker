@@ -7,9 +7,9 @@ them. The UI of the application is built using Flutter and Dart. Keeping in mind
 
 Below snapshots show how the application looks like!
 
-![Screenshot_20220715_005754](https://user-images.githubusercontent.com/72212740/185929457-6c41c057-e1d4-4ea5-b006-b6310afd44dc.png) ![Screenshot_20220715_010233](https://user-images.githubusercontent.com/72212740/185930057-7960163c-1173-4ed3-8c19-277d414fb778.png)
+![Screenshot_20220715_005754](https://user-images.githubusercontent.com/72212740/185929457-6c41c057-e1d4-4ea5-b006-b6310afd44dc.png | width=250) 
 
-
+![Screenshot_20220715_010233](https://user-images.githubusercontent.com/72212740/185930057-7960163c-1173-4ed3-8c19-277d414fb778.png)
 
 ![Screenshot_20220715_010304](https://user-images.githubusercontent.com/72212740/185930112-514384cf-2a50-434c-b78e-0ac009545254.png)
 
